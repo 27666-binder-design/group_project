@@ -5,3 +5,4 @@ The members of this project are:
 
 - Eric Torres García (s243275)
 - Lucía López Rosales (s253704)
+- Maria Banou (s253686)
