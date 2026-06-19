@@ -1,0 +1,51 @@
+{
+    "diffused_index_map": {},
+    "metrics": {
+        "max_ca_deviation": 0.0654444694519043,
+        "n_chainbreaks": 0,
+        "n_clashing.interresidue_clashes_w_sidechain": 0,
+        "n_clashing.interresidue_clashes_w_backbone": 0,
+        "non_loop_fraction": 0.8552631578947368,
+        "loop_fraction": 0.14473684210526316,
+        "helix_fraction": 0.8552631578947368,
+        "sheet_fraction": 0.0,
+        "num_ss_elements": 5,
+        "radius_of_gyration": 10.708590280656102,
+        "alanine_content": 0.5657894736842105,
+        "glycine_content": 0.07894736842105263,
+        "num_residues": 76,
+        "diffused_com": [
+            0.4041782021522522,
+            1.8391269445419312,
+            -1.2090718746185303
+        ]
+    },
+    "specification": {
+        "input": "/zhome/9a/8/223945/group_project/inputs/2N0A_dimer_cropped.pdb",
+        "contig": "50-100",
+        "length": "50-100",
+        "extra": {
+            "example": "rfd3_2n0a_chainA_hotspot_v4",
+            "task_name": "rfd3_input_rfd3_2n0a_chainA_hotspot_v4",
+            "sampled_contig": "76",
+            "num_tokens_in": 76,
+            "num_residues_in": 76,
+            "num_chains": 1,
+            "num_atoms": 380,
+            "num_residues": 77,
+            "example_id": "rfd3_input_rfd3_2n0a_chainA_hotspot_v4_0"
+        },
+        "select_fixed_atoms": true,
+        "select_unfixed_sequence": false,
+        "select_hotspots": {
+            "A61": "CD,OE1,OE2",
+            "A62": "CG,CD,OE1,NE2",
+            "A63": "CB,CG1,CG2",
+            "A64": "CB,OG1",
+            "A65": "CG,OD1,ND2"
+        },
+        "is_non_loopy": true
+    },
+    "ckpt_path": "/dtu/projects/dbl/foundry/ckpt/rfd3_latest.ckpt",
+    "seed": null
+}
