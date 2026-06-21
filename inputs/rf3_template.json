@@ -6,7 +6,7 @@
             "chain_id": "A"
         },
         {
-            "path": "inputs/2N0A_dimer_cropped_clean_first.pdb"
+            "path": "inputs/2N0A_dimer_cropped_clean_first.cif"
         }
     ],
     "template_selection": ["B"]
