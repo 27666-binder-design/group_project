@@ -1,0 +1,13 @@
+{
+    "name": "binder_2N0A_DESIGNNAME",
+    "components": [
+        {
+            "seq": "BINDER_SEQUENCE_HERE",
+            "chain_id": "A"
+        },
+        {
+            "path": "inputs/2N0A_dimer_cropped_clean_first.pdb"
+        }
+    ],
+    "template_selection": ["B"]
+}
