@@ -3,10 +3,10 @@
     "components": [
         {
             "seq": "BINDER_SEQUENCE_HERE",
-            "chain_id": "A"
+            "chain_id": "a"
         },
         {
-            "path": "inputs/2N0A_dimer_cropped_clean_first.pdb"
+            "path": "inputs/2N0A_chains_AB.cif"
         }
     ],
     "template_selection": ["B"]
